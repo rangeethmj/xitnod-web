@@ -1,0 +1,5 @@
+Contact: mailto:xitnod@gmail.com
+Expires: 2027-11-26T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://xitnod.com/.well-known/security.txt
+Policy: https://xitnod.com/privacy
